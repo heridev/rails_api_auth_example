@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.0.0'
+gem 'rails', '6.0.3.5'
 gem 'devise', '>= 3.0.0'
 gem 'omniauth-google-apps'
 # Bundle edge Rails instead:
